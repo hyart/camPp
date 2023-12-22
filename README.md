@@ -16,7 +16,7 @@ To address this issue, I decided to create a simple RTSP stream server that faci
 Leveraging a Docker container on my Synology NAS, I deployed an RTSP server to consistently provide the video stream 24/7.
 The simple UI lets user type Camera local IP address and stream the video using WebSocket Connection.
 
-This solution eliminates the subscription requirement and allows easy access to the video feed in the Web Browser.
+This solution eliminates the subscription requirement (👌) and allows easy access to the video feed in the Web Browser.
 
 ![Screenshot 2023-12-21 at 11 52 32 PM](https://github.com/hyart/camPp/assets/142290537/6715b98b-31d5-4544-8c69-b4acb32d68f1)
 ![Screenshot 2023-12-21 at 11 50 11 PM](https://github.com/hyart/camPp/assets/142290537/0294af4b-a266-4574-b7a0-78aaedc9524d)
