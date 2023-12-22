@@ -25,8 +25,8 @@ This solution eliminates the subscription requirement and allows easy access to 
 
 ### Technologies Used
 - Node.js/Express.js
-- Vanilla.js
-- Some CSS
+- Vanilla.js 😎
+- Some CSS 😀
 - [RTSP Relay](https://github.com/k-yle/rtsp-relay): Used for handling RTSP streaming and relay functionalities.
 - [Pug](https://github.com/pugjs/pug): Used as a template engine for Node.js.
 
