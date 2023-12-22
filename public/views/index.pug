@@ -1,0 +1,24 @@
+doctype html
+head
+  meta(charset='UTF-8')
+  title CamPp
+  link(rel='icon' type="image/png" sizes="32x32" href='../favicon.ico')
+  link(rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css')
+  link(rel='stylesheet' href='../styles.css')
+  script(src=scriptUrl)
+#ip-container
+  #logo 📽️ CamPp
+  #input-container
+    input#input(placeholder='Camera IP Address' type='text' autofocus='autofocus' value)
+    button#stream-btn Stream
+  div#remember-checkbox
+    input#input-checkbox(type='checkbox' value)
+    label(for='input-checkbox') Remember IP
+#canvas-container
+  button#back-btn.fa-solid.fa-arrow-left
+  #loading
+    span#loader
+  #wrapper
+    button#play.fa-solid.fa-play
+    button#pause.fa-solid.fa-pause
+script(src='../scripts.js')
