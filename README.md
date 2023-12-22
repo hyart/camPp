@@ -18,8 +18,8 @@ The simple UI lets user type Camera local IP address and stream the video using 
 
 This solution eliminates the subscription requirement and allows easy access to the video feed in the Web Browser.
 
-![Screenshot 2023-12-21 at 11 27 27 PM](https://github.com/hyart/camPp/assets/142290537/0dc586bb-76ca-4238-a046-998e59c73a2d)
-![Screenshot 2023-12-21 at 11 27 27 PM](https://github.com/hyart/camPp/assets/142290537/8e5e9fb1-6301-4122-a0d0-a4c31f3d629f)
+![Screenshot 2023-12-21 at 11 52 32 PM](https://github.com/hyart/camPp/assets/142290537/6715b98b-31d5-4544-8c69-b4acb32d68f1)
+![Screenshot 2023-12-21 at 11 50 11 PM](https://github.com/hyart/camPp/assets/142290537/0294af4b-a266-4574-b7a0-78aaedc9524d)
 
 ## Project Details
 
